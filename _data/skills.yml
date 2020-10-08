@@ -11,7 +11,9 @@ languages:
 frameworks:
   - item: TensorFlow
   - item: PyTorch
-  - item: Bootstrap
+  - item: OpenCV
+  - item: Vega-lite
+  - item: D3.js
 
 tools:
   - item: Vivado
