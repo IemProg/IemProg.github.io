@@ -1,3 +1,13 @@
+- name: LEGO Robot Tracking
+  url: https://github.com/IemProg/IAPR_Project
+  code: https://github.com/IemProg/IAPR_Project
+  description: Created a framework to track the trajectory of LEGO robot, recognition of the objects passed by.
+  used:
+    - thing: Python
+    - thing: Deep Learning
+    - thing: OpenCV
+
+
 - name: Road Panel Recognition System
   url: https://github.com/IemProg/Road_Panel_Recognition
   code: https://github.com/IemProg/Road_Panel_Recognition
@@ -7,13 +17,6 @@
     - thing: OpenCV
     - thing: Arduino
     - thing: RaspberryPI
-
-- name: ParisPathFinder Application
-  url: https://github.com/IemProg/ParisPathFinder
-  code: https://github.com/IemProg/ParisPathFinder
-  description: CreatedanapplicationwithPythontofindthepathbetween addresses using RATP Dataset via Dijkstra’s’ algorithm, and correcting misspelled addresses.
-  used:
-    - thing: Python
 
 - name: Sokoban Game
   url: https://github.com/IemProg/Sokoban
@@ -41,13 +44,6 @@
   used:
     - thing: Python
 
-- name: Deep Learning in Computer Vision
-  url: https://github.com/IemProg/DeepLearning_In_ComputerVision
-  code: https://github.com/IemProg/DeepLearning_In_ComputerVision
-  description: https://github.com/IemProg/DeepLearning_In_ComputerVision
-  used:
-    - thing: Python
-
 - name: Real Time Digits Recognition
   url: https://github.com/IemProg/Real_Time_Digits_Recognition
   code: https://github.com/IemProg/Real_Time_Digits_Recognition
@@ -56,11 +52,3 @@
     - thing: Python
     - thing: OpenCV2
     - thing: Sklearn
-
-- name: Flappy Bird Clone
-  url: https://github.com/IemProg/crowddj-react
-  code: https://github.com/IemProg/crowddj-react
-  description: Second iteration of my personal website. Designed and developed with a conscious effort to avoid using any superfluous frameworks like Bootstrap.
-  used:
-    - thing: Python
-    - thing: PyGame
